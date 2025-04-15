@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Jiaxiang Zhu
 ---
 # Welcome to My Site!
