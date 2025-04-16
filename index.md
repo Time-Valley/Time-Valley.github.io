@@ -6,4 +6,4 @@ title: Jiaxiang Zhu
 This is **Markdown** content. The theme will style it automatically.
 
 Here’s my CV:  
-[View my CV](https://time-valley.github.io/_assets/downloads/CV.pdf)
+[View my CV](_assets/downloads/CV.pdf)
